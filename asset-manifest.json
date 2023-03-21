@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/data-analytics-web-app.git/static/css/main.f0ebce59.css",
-    "main.js": "/data-analytics-web-app.git/static/js/main.6fb36a8e.js",
-    "static/media/laptop.jpg": "/data-analytics-web-app.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/single.png": "/data-analytics-web-app.git/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/data-analytics-web-app.git/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/data-analytics-web-app.git/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/data-analytics-web-app.git/index.html",
-    "main.f0ebce59.css.map": "/data-analytics-web-app.git/static/css/main.f0ebce59.css.map",
-    "main.6fb36a8e.js.map": "/data-analytics-web-app.git/static/js/main.6fb36a8e.js.map"
+    "main.css": "/data-analytics-web-app/static/css/main.f0ebce59.css",
+    "main.js": "/data-analytics-web-app/static/js/main.437a4460.js",
+    "static/media/laptop.jpg": "/data-analytics-web-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-analytics-web-app/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-analytics-web-app/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-analytics-web-app/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-analytics-web-app/index.html",
+    "main.f0ebce59.css.map": "/data-analytics-web-app/static/css/main.f0ebce59.css.map",
+    "main.437a4460.js.map": "/data-analytics-web-app/static/js/main.437a4460.js.map"
   },
   "entrypoints": [
     "static/css/main.f0ebce59.css",
-    "static/js/main.6fb36a8e.js"
+    "static/js/main.437a4460.js"
   ]
 }
